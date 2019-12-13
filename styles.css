@@ -1,0 +1,53 @@
+body {
+    color: purple;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    width: 30%;
+    background-image: url("images/background.jpg");
+}
+h1{
+    font-family: "Candara";
+    font-size: 80px;
+    color: orangered;
+}
+
+
+#startButton {
+    display: block;
+    margin: 20px auto 30px auto;
+    height: 60px;
+    font-family: "Impact";
+    font-size: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 100px;
+    color: black;
+}
+
+#month, #day, #username {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height: 40px;
+    font-family: 'Candara';
+    font-size: 20px;
+    color: green;
+}
+
+.default{
+    font-family: "Candara";
+    font-size: 30px;
+
+}
+
+#horoscope {
+    font-family: "Candara";
+    font-size: 30px;
+    color: orangered;
+}
+
+h1{
+    font-family: sans-serif;
+
+}
