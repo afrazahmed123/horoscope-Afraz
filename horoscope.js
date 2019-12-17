@@ -59,7 +59,7 @@ if(month == 0){
     }
      if(day >= 20 && day <= 31) {
          return 1;
-
+     }
 }
 //February
 if(month == 1) {
