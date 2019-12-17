@@ -66,7 +66,7 @@ if(month == 1) {
     if (day >= 1 && day <= 18) {
         return 1;
     }
-    if (day >= 19 && day <= 28)
+    if (day >= 19 && day <= 28){
         return 2;
     }
 }
@@ -161,6 +161,7 @@ if(month == 11){
         return 0;
     }
 }
+
 }
 
 function ifBirthday(m, d){
